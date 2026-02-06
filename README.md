@@ -17,6 +17,7 @@ An **AI-powered Telegram bot** that generates personalized music playlists using
 
 ## 🧩 Workflow Overview
 
+
 The bot is built as an **automated workflow pipeline**:
 
 1. **Telegram Trigger**
